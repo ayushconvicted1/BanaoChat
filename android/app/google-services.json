@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244712695131",
+    "project_id": "banaotask-b6127",
+    "storage_bucket": "banaotask-b6127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244712695131:android:5debadd782a1d042d1667e",
+        "android_client_info": {
+          "package_name": "com.banaochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAR5KvJpoEbozBF6prfggPL3jX4EGjDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
